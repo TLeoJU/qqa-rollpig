@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime config / data (may contain tokens, superuser QQ, AI keys)
+rollpig_config.json
+rollpig-groups.json
+data/
+logs/
+*.log
+
+# Build output
+dist/
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

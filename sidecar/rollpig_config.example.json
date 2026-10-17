@@ -1,0 +1,11 @@
+{
+  "rollpig_ai_enabled": false,
+  "rollpig_storage_backend": "local",
+  "rollpig_daily_summary_enabled": false,
+  "rollpig_resource_sync_enabled": true,
+  "rollpig_catalog_enabled": true,
+  "rollpig_catalog_render_concurrency": 1,
+  "rollpig_catalog_cache_seconds": 300,
+  "rollpig_roast_cooldown_hours": 8.0,
+  "rollpig_roast_charge_max": 2
+}
