@@ -152,8 +152,8 @@ QQ（走 QQA 的串行、限频、去重、留档）
 sudo apt-get update
 sudo apt-get install -y python3 python3-venv python3-pip
 
-# 2) 拉取仓库（把 <本仓库地址> 换成实际地址）
-git clone <本仓库地址> qqa-rollpig
+# 2) 拉取仓库
+git clone https://github.com/TLeoJU/qqa-rollpig.git qqa-rollpig
 cd qqa-rollpig
 
 # 3) 安装（默认 QQA_HOME=/opt/qq-agent）

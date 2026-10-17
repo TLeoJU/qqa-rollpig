@@ -18,7 +18,7 @@ RollPig 的卡片渲染依赖上游 `nonebot-plugin-rollpig-plus`（Pillow、字
 Linux（Docker 或原生）在服务器上执行（需要 root）：
 
 ```bash
-git clone <本仓库地址> qqa-rollpig
+git clone https://github.com/TLeoJU/qqa-rollpig.git qqa-rollpig
 cd qqa-rollpig
 sudo ./scripts/install.sh
 ```

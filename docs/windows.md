@@ -39,7 +39,7 @@ py -3.10 --version
 ```powershell
 New-Item -ItemType Directory -Force C:\qq-agent-rollpig
 cd C:\qq-agent-rollpig
-git clone <本仓库地址> repo
+git clone https://github.com/TLeoJU/qqa-rollpig.git repo
 ```
 
 ## 3. 创建 venv 并安装依赖
